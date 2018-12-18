@@ -26,7 +26,7 @@
 ### April
 - [#PerfMatters](https://perfmattersconf.com/) - April 2-3 in Redwood City, CA
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
-- [Smashing Conf SF] - April 16-27 in San Francisco, CA
+- [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
 
