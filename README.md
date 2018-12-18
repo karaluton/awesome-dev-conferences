@@ -32,7 +32,7 @@
 
 ### May
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
-- [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, Massachusetts
+- [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
@@ -54,7 +54,7 @@
 
 ### October
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
-- [An Event Apart Denver](https://aneventapart.com/event/denver-2019) - October 28-30 in Denver, Colorado
+- [An Event Apart Denver](https://aneventapart.com/event/denver-2019) - October 28-30 in Denver, CO
 
 ### November
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - November 4-8 in Orlando, FL
@@ -71,6 +71,9 @@
 - [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
 - [Signal Conf](https://signal.twilio.com/) - August 6-7 in San Francisco, CA
 
+### Colorado
+- [An Event Apart Denver](https://aneventapart.com/event/denver-2019) - October 28-30 in Denver, CO
+
 ### Florida
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - November 4-8 in Orlando, FL
@@ -85,7 +88,7 @@
 - [An Event Apart Chicago](https://aneventapart.com/event/chicago-2019) - August 26-28 in Chicago, IL
 
 ### Massachusetts
-- [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, Massachusetts
+- [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
 
 ### Minnesota
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
