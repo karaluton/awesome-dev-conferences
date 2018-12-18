@@ -4,8 +4,8 @@
 > A curated list of various developer conferences. Currently, only conferences happening in 2019 are listed.
 
 # Index
-[Conferences organized by month](#by-month)
-[Conferences organized by state](#by-state)
+- [Conferences organized by month](#by-month)
+- [Conferences organized by state](#by-state)
 
 ## By Month
 
