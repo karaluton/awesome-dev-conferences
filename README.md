@@ -21,7 +21,7 @@
 ### March
 - [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019) - March 4-6 in Seattle, WA
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
-- [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL.
+- [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
 
 ### April
 - [#PerfMatters](https://perfmattersconf.com/) - April 2-3 in Redwood City, CA
