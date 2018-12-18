@@ -33,6 +33,7 @@
 ### May
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
 - [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, Massachusetts
+- [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
 - [Revolution Conf](https://revolutionconf.com/) - June 6-7 in Virginia Beach, VA
@@ -88,6 +89,9 @@
 
 ### Minnesota
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
+
+### Missouri
+- [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### Montana
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
