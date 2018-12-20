@@ -36,6 +36,7 @@
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
+- [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 - [Revolution Conf](https://revolutionconf.com/) - June 6-7 in Virginia Beach, VA
 
 ### July
@@ -80,6 +81,7 @@
 
 ### Georgia
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
+- [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 
 ### Hawaii
 - [JSConf Hawaii](https://www.jsconfhi.com/) - February 7-8 in Honolulu, HI
