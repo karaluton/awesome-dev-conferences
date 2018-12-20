@@ -16,6 +16,7 @@
 
 ### February
 - [JSConf Hawaii](https://www.jsconfhi.com/) - February 7-8 in Honolulu, HI
+- [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - February 15-17 in Phoenix, AZ
 
 ### March
@@ -111,6 +112,7 @@
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
 
 ### Tennessee
+- [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
 
