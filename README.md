@@ -27,6 +27,7 @@
 ### April
 - [#PerfMatters](https://perfmattersconf.com/) - April 2-3 in Redwood City, CA
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
+- [Loco Moco Security Conference](https://locomocosec.com/) - April 15-19 in Lihue, HI
 - [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
@@ -86,6 +87,7 @@
 
 ### Hawaii
 - [JSConf Hawaii](https://www.jsconfhi.com/) - February 7-8 in Honolulu, HI
+- [Loco Moco Security Conference](https://locomocosec.com/) - April 15-19 in Lihue, HI
 
 ### Illinois
 - [An Event Apart Chicago](https://aneventapart.com/event/chicago-2019) - August 26-28 in Chicago, IL
