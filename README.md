@@ -10,6 +10,7 @@
 ## By Month
 
 ### January
+- [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
 - [Covalence](http://www.covalenceconf.com/) - January 16 in San Francisco, CA
 - [ForwardJS](https://forwardjs.com/) - January 24 in San Francisco, CA
@@ -108,6 +109,9 @@
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
+
+### Ohio
+- [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
 
 ### Oregon
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
