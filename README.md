@@ -9,9 +9,6 @@
 
 ## By Month
 
-### Online
-- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
-
 ### January
 - [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
@@ -68,6 +65,9 @@
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - November 4-8 in Orlando, FL
 
 ## By State
+
+### Online
+- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 
 ### Arizona
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - February 15-17 in Phoenix, AZ
