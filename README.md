@@ -23,6 +23,7 @@
 ### March
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 - [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019) - March 4-6 in Seattle, WA
+- [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
 
@@ -108,6 +109,9 @@
 
 ### Montana
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
+
+### Nebraska
+- [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 
 ### New York
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
