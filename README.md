@@ -51,6 +51,7 @@
 ### August
 - [THAT Conference](https://www.thatconference.com/) - August 6-8 in Wisconsin Dells, WI
 - [Signal Conf](https://signal.twilio.com/) - August 6-7 in San Francisco, CA
+- [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
 - [An Event Apart Chicago](https://aneventapart.com/event/chicago-2019) - August 26-28 in Chicago, IL
 
@@ -120,6 +121,9 @@
 ### Oregon
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
+
+### Pennsylvania
+- [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
 
 ### Tennessee
 - [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
