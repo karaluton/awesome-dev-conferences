@@ -43,6 +43,7 @@
 ### June
 - [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 - [Revolution Conf](https://revolutionconf.com/) - June 6-7 in Virginia Beach, VA
+- [DEVintersection](https://www.devintersection.com) - June 10-13 in Orlando, FL
 
 ### July
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
@@ -86,7 +87,9 @@
 
 ### Florida
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
+- [DEVintersection](https://www.devintersection.com) - June 10-13 in Orlando, FL
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - November 4-8 in Orlando, FL
+
 
 ### Georgia
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
