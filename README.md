@@ -38,6 +38,7 @@
 ### May
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
 - [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
+- [NDC Minnesota](https://ndcminnesota.com/) - May 6-9 in St. Paul, MN
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
@@ -107,6 +108,7 @@
 
 ### Minnesota
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
+- [NDC Minnesota](https://ndcminnesota.com/) - May 6-9 in St. Paul, MN
 
 ### Missouri
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
