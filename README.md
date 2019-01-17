@@ -39,6 +39,7 @@
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
 - [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
 - [NDC Minnesota](https://ndcminnesota.com/) - May 6-9 in St. Paul, MN
+- [Techorama](https://techorama.be/) - May 20-22 in Antwerp, Belgium
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
@@ -72,6 +73,9 @@
 
 ### Online
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
+
+### Outside Of United States
+- [Techorama](https://techorama.be/) - May 20-22 in Antwerp, Belgium
 
 ### Arizona
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - February 15-17 in Phoenix, AZ
