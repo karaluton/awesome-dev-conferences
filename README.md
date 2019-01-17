@@ -108,7 +108,7 @@
 - [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
 
 ### Michigan
--[self.conference](http://selfconference.org/) - June 7-8 in Detroit, MI
+- [self.conference](http://selfconference.org/) - June 7-8 in Detroit, MI
 
 ### Minnesota
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
