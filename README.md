@@ -49,6 +49,7 @@
 
 ### July
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
+- [Kansas City Developer Conference](http://www.kcdc.info/) - July 17-19 in Kansas City, MO
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
 - [An Event Apart Washington, DC](https://aneventapart.com/event/washington-dc-2019) - July 29-31 in Washington, DC
 
@@ -116,6 +117,7 @@
 
 ### Missouri
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
+- [Kansas City Developer Conference](http://www.kcdc.info/) - July 17-19 in Kansas City, MO
 
 ### Montana
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
