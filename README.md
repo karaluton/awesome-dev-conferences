@@ -23,6 +23,7 @@
 ### March
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 - [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019) - March 4-6 in Seattle, WA
+- [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
 
@@ -37,12 +38,14 @@
 ### May
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
 - [An Event Apart Boston](https://aneventapart.com/event/boston-2019) - May 6-8 in Boston, MA
+- [NDC Minnesota](https://ndcminnesota.com/) - May 6-9 in St. Paul, MN
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### June
 - [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 - [Revolution Conf](https://revolutionconf.com/) - June 6-7 in Virginia Beach, VA
--[self.conference](http://selfconference.org/) - June 7-8 in Detroit, MI
+- [self.conference](http://selfconference.org/) - June 7-8 in Detroit, MI
+- [DEVintersection](https://www.devintersection.com) - June 10-13 in Orlando, FL
 
 ### July
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
@@ -52,6 +55,7 @@
 ### August
 - [THAT Conference](https://www.thatconference.com/) - August 6-8 in Wisconsin Dells, WI
 - [Signal Conf](https://signal.twilio.com/) - August 6-7 in San Francisco, CA
+- [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
 - [An Event Apart Chicago](https://aneventapart.com/event/chicago-2019) - August 26-28 in Chicago, IL
 
@@ -85,7 +89,9 @@
 
 ### Florida
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
+- [DEVintersection](https://www.devintersection.com) - June 10-13 in Orlando, FL
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - November 4-8 in Orlando, FL
+
 
 ### Georgia
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
@@ -106,12 +112,16 @@
 
 ### Minnesota
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
+- [NDC Minnesota](https://ndcminnesota.com/) - May 6-9 in St. Paul, MN
 
 ### Missouri
 - [Flyover Conf](https://www.flyovercamp.org/) - May 31-June 2 in Kansas City, MO
 
 ### Montana
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
+
+### Nebraska
+- [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 
 ### New York
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
@@ -124,6 +134,9 @@
 ### Oregon
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
+
+### Pennsylvania
+- [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
 
 ### Tennessee
 - [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
