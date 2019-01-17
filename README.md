@@ -43,6 +43,7 @@
 
 ### June
 - [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
+- [DevRelCon](https://sf2019.devrel.net/) - June 6-7 in San Francisco, CA
 - [Revolution Conf](https://revolutionconf.com/) - June 6-7 in Virginia Beach, VA
 - [self.conference](http://selfconference.org/) - June 7-8 in Detroit, MI
 - [DEVintersection](https://www.devintersection.com) - June 10-13 in Orlando, FL
@@ -82,6 +83,7 @@
 - [ForwardJS](https://forwardjs.com/) - January 24 in San Francisco, CA
 - [#PerfMatters](https://perfmattersconf.com/) - April 2-3 in Redwood City, CA
 - [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
+- [DevRelCon](https://sf2019.devrel.net/) - June 6-7 in San Francisco, CA
 - [Signal Conf](https://signal.twilio.com/) - August 6-7 in San Francisco, CA
 
 ### Colorado
