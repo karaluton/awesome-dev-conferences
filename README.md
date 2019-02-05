@@ -65,6 +65,7 @@
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
 
 ### October
+- [All Things Open](https://allthingsopen.org/) - October 13-15 in Raleigh, NC
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
 - [An Event Apart Denver](https://aneventapart.com/event/denver-2019) - October 28-30 in Denver, CO
 
@@ -131,6 +132,9 @@
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
+
+### North Carolina
+- [All Things Open](https://allthingsopen.org/) - October 13-15 in Raleigh, NC
 
 ### Ohio
 - [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
