@@ -51,6 +51,7 @@
 ### July
 - [Chain React](https://infinite.red/ChainReactConf) - July 11-12 in Portland, OR
 - [Kansas City Dev Con](http://www.kcdc.info/) - July 18-19 in Kansas City, MO
+- [Codeland](http://codelandconf.com/) - July 22 in New York, NY
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
 - [An Event Apart Washington, DC](https://aneventapart.com/event/washington-dc-2019) - July 29-31 in Washington, DC
 
@@ -130,6 +131,7 @@
 
 ### New York
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
+- [Codeland](http://codelandconf.com/) - July 22 in New York, NY
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
 
