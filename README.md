@@ -32,6 +32,7 @@
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
 - [Loco Moco Security Conference](https://locomocosec.com/) - April 15-19 in Lihue, HI
 - [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
+- [SouthernDev](http://southerndev.co/) - April 27 in Augusta, GA
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Rails Conf](https://railsconf.com/) - April 30-May 2 in Minneapolis, MN
 
@@ -59,6 +60,7 @@
 - [THAT Conference](https://www.thatconference.com/) - August 6-8 in Wisconsin Dells, WI
 - [Signal Conf](https://signal.twilio.com/) - August 6-7 in San Francisco, CA
 - [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
+- [AnxietyTech](http://www.anxietytech.com/) - August 23 in New York, NY
 - [Rails Camp West](https://west.railscamp.us/) - August 23-26 in McLeod, MT
 - [An Event Apart Chicago](https://aneventapart.com/event/chicago-2019) - August 26-28 in Chicago, IL
 
@@ -100,6 +102,7 @@
 
 ### Georgia
 - [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
+- [SouthernDev](http://southerndev.co/) - April 27 in Augusta, GA
 - [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 
 ### Hawaii
@@ -133,6 +136,7 @@
 - [The Lead Developer New York](https://newyork2019.theleaddeveloper.com/?utm_source=theleaddeveloper.com&utm_medium=referral&utm_campaign=conference) - April 30 in New York, NY
 - [Codeland](http://codelandconf.com/) - July 22 in New York, NY
 - [Laracon](https://laracon.us/) - July 24-25 in New York, NY
+- [AnxietyTech](http://www.anxietytech.com/) - August 23 in New York, NY
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
 
 ### North Carolina
