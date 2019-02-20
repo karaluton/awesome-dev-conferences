@@ -1,7 +1,7 @@
 # Awesome Dev Conferences in the USA
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of various developer conferences. Currently, only conferences happening in 2019 are listed.
+> A curated list of various developer conferences. All events are in 2019 unless otherwise noted.
 
 # Index
 - [Conferences organized by month](#by-month)
