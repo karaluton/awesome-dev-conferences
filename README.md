@@ -9,16 +9,8 @@
 
 ## By Month
 
-### January
-- [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
-- [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
-- [Covalence](http://www.covalenceconf.com/) - January 16 in San Francisco, CA
-- [ForwardJS](https://forwardjs.com/) - January 24 in San Francisco, CA
-
-### February
-- [JSConf Hawaii](https://www.jsconfhi.com/) - February 7-8 in Honolulu, HI
-- [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
-- [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - February 15-17 in Phoenix, AZ
+### January 2020
+- [CodeMash](http://www.codemash.org/) - January 7-10 in Sandusky, OH
 
 ### March
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
@@ -81,11 +73,11 @@
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 
 ### Arizona
-- [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - February 15-17 in Phoenix, AZ
+- [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - 2020 TBA in Phoenix, AZ
 
 ### California
-- [Covalence](http://www.covalenceconf.com/) - January 16 in San Francisco, CA
-- [ForwardJS](https://forwardjs.com/) - January 24 in San Francisco, CA
+- [Covalence](http://www.covalenceconf.com/) - 2020 TBA in San Francisco, CA
+- [ForwardJS](https://forwardjs.com/) - 2020 TBA in San Francisco, CA
 - [#PerfMatters](https://perfmattersconf.com/) - April 2-3 in Redwood City, CA
 - [Smashing Conf SF](https://smashingconf.com/sf-2019/) - April 16-27 in San Francisco, CA
 - [DevRelCon](https://sf2019.devrel.net/) - June 6-7 in San Francisco, CA
@@ -101,12 +93,12 @@
 
 
 ### Georgia
-- [ngAtlanta Conference](http://ng-atl.org/#/) - January 9-12 in Atlanta, GA
+- [ngAtlanta Conference](http://ng-atl.org/#/) - 2020 TBA in Atlanta, GA
 - [SouthernDev](http://southerndev.co/) - April 27 in Augusta, GA
 - [Refactr.Tech](http://refactr.tech/) - June 5-7 in Atlanta, GA
 
 ### Hawaii
-- [JSConf Hawaii](https://www.jsconfhi.com/) - February 7-8 in Honolulu, HI
+- [JSConf Hawaii](https://www.jsconfhi.com/) - 2020 TBA in Honolulu, HI
 - [Loco Moco Security Conference](https://locomocosec.com/) - April 15-19 in Lihue, HI
 
 ### Illinois
@@ -143,7 +135,7 @@
 - [All Things Open](https://allthingsopen.org/) - October 13-15 in Raleigh, NC
 
 ### Ohio
-- [CodeMash](http://www.codemash.org/) - January 8-11 in Sandusky, OH
+- [CodeMash](http://www.codemash.org/) - January 7-10, 2020 in Sandusky, OH
 
 ### Oregon
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
@@ -153,7 +145,7 @@
 - [Abstractions](https://abstractions.io/) - August 21-23 in Pittsburgh, PA
 
 ### Tennessee
-- [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
+- [PyTennessee](https://www.pytennessee.org/) - 2020 TBA in Nashville, TN
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
 
