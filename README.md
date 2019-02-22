@@ -15,6 +15,7 @@
 ### March
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 - [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019) - March 4-6 in Seattle, WA
+- [Laracon Online](https://laracon.net) - March 6 streamed online
 - [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
@@ -73,6 +74,7 @@
 
 ### Online
 - [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
+- [Laracon Online](https://laracon.net) - March 6 streamed online
 
 ### Arizona
 - [WordCamp Phoenix](https://central.wordcamp.org/wordcamps/wordcamp-phoenix-az-2/) - 2020 TBA in Phoenix, AZ
