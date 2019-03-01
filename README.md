@@ -13,11 +13,11 @@
 - [CodeMash](http://www.codemash.org/) - January 7-10 in Sandusky, OH
 
 ### March
-- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
 - [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019) - March 4-6 in Seattle, WA
 - [Laracon Online](https://laracon.net) - March 6 streamed online
 - [Connectaha](https://connectaha.com) - March 8 in Omaha, NE
 - [EmberConf](https://emberconf.com/) - March 18-20 in Portland, OR
+- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 22-23 streamed on Twitch
 - [VueConf Us](http://vueconf.us/) - March 25-27 in Tampa, FL
 
 ### April
@@ -73,7 +73,7 @@
 ## By State
 
 ### Online
-- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 1-2 streamed on Twitch
+- [Byteconf JavaScript](https://www.byteconf.com/js-2019) - March 22-23 streamed on Twitch
 - [Laracon Online](https://laracon.net) - March 6 streamed online
 
 ### Arizona
