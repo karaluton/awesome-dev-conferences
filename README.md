@@ -61,6 +61,7 @@
 
 ### September
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
+- [DevFest WI](https://devfestwi.com) - September 28 in Madison, WI
 
 ### October
 - [All Things Open](https://allthingsopen.org/) - October 13-15 in Raleigh, NC
@@ -169,3 +170,4 @@
 
 ### Wisconsin
 - [THAT Conference](https://www.thatconference.com/) - August 6-8 in Wisconsin Dells, WI
+- [DevFest WI](https://devfestwi.com) - September 28 in Madison, WI
